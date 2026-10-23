@@ -1,2 +1,0 @@
-# APP-DEV
-semi-finals
